@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  
 #   ██████╗ ██╗   ██╗██╗███████╗██╗███████╗███████╗    ██╗  ██╗ █████╗  ██████╗██╗  ██╗
 #  ██╔═══██╗██║   ██║██║╚══███╔╝██║╚══███╔╝╚══███╔╝    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝
@@ -12,11 +13,20 @@
 
 // **********************************************************************
 // to run direct from github: 
+=======
+# Quizizz_Fun
+A tiny tool to get all questions with options in a quiz from Quizizz.com
+You just need to know roomhash :)
+
+**********************************************************************
+to run direct from github: 
+>>>>>>> 8602c781136f1e3b9d0b73c7622a0598e34c3a7e
 
 fetch("https://raw.githubusercontent.com/aykarnz/Quizizz_Fun/main/cx.js")
 .then((response) => response.text())
 .then((text) => eval(text))
 .then(() => {})
+<<<<<<< HEAD
 
 
 //                                                                                     
@@ -27,3 +37,5 @@ fetch("https://raw.githubusercontent.com/aykarnz/Quizizz_Fun/main/cx.js")
 // ██████╔╝   ██║       ██║  ██║   ██║   ██║  ██╗██║  ██║██║  ██║██║ ╚████║███████╗    
 // ╚═════╝    ╚═╝       ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝    
 //  
+=======
+>>>>>>> 8602c781136f1e3b9d0b73c7622a0598e34c3a7e
