@@ -6,7 +6,7 @@
 ╚██████╔╝╚██████╔╝██║███████╗██║███████╗    ██║     ╚██████╔╝██║ ╚████║
  ╚══▀▀═╝  ╚═════╝ ╚═╝╚══════╝╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═══╝
                                                                        
-```plaintext
+
 
 ### Quizizz Fun ###
 A tiny tool to get all questions with options from a quiz on Quizizz.com
@@ -29,7 +29,7 @@ fetch("https://raw.githubusercontent.com/aykarnz/Quizizz_Fun/main/cx_userInput.j
 .then(() => {})
 
 
-```plaintext
+
 //                                                                                     
 // ██████╗ ██╗   ██╗     █████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗ ███╗   ██╗███████╗    
 // ██╔══██╗╚██╗ ██╔╝    ██╔══██╗╚██╗ ██╔╝██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║╚══███╔╝    
@@ -38,4 +38,3 @@ fetch("https://raw.githubusercontent.com/aykarnz/Quizizz_Fun/main/cx_userInput.j
 // ██████╔╝   ██║       ██║  ██║   ██║   ██║  ██╗██║  ██║██║  ██║██║ ╚████║███████╗    
 // ╚═════╝    ╚═╝       ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝    
 //  
-```plaintext
